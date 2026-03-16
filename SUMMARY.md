@@ -1,6 +1,13 @@
-# Summary
+# Table of contents
 
 * [Главная](README.md)
+
+## Начало работы
+
+* [Page 1](nachalo-raboty/page-1.md)
+
+***
+
 * [Начало работы](getting-started/README.md)
   * [Как зарегистрировать домен](getting-started/register-domain.md)
   * [Как продлить домен](getting-started/renew-domain.md)
